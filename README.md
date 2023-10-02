@@ -2,6 +2,6 @@
 <p>Name : onlineExam System
 <br>
 Description:conduct MCQ Test and Generate result</p>
-<p>language : Java21/Java20</p>
-
+<p>language : Java21</p>
+<p>language : Java20</p>
 
